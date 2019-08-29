@@ -1,0 +1,18 @@
+/*
+ Modification Details:
+ 1. This css styles used for Right panel content
+ */
+
+.right {
+    height: 702px;
+    float: left;
+    font-size: 20px;
+    box-shadow: -3px 0px 5px 1px #aaaaaa;
+    padding: 20px;text-align: justify;
+
+}
+.right p {
+    width: 70%;
+    padding-right: 30px;
+    color: blue;
+}
